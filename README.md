@@ -1,7 +1,7 @@
 
 <div align="center">
-    <img alt="Video Game" height="250" src="images/j.png" width="250"/>
-    <h1><font size="10">OUR PRO MAX GOMO: BAKHTIOTY 🎮</font></h1>
+    <img alt="YOU" height="250" src="images/j.png" width="250"/>
+    <h1><font size="10">OUR PRO MAX GOMO: BAKHTIYORY 🎮</font></h1>
     <h3>
         <font size="4">EVA ELFI💗<br>
         LEGENDS NEVER IN RELATIONSHIP🚀</font>
@@ -11,7 +11,7 @@
         <font size="4">junior software engineer from kookmin university in seoul, south korea</font>
         <br><br>
         <a href="https://discord.gg/fgwk4XZfxG">
-            <img alt="Discord" height="500" src="images/go.jpeg" width="400"/>
+            <img alt="GOMO" height="500" src="images/go.jpeg" width="400"/>
         </a>
     </h3>
 </div>
