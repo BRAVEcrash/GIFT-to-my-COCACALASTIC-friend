@@ -1,1 +1,2 @@
 print('UZB')
+print('<NAME>')
